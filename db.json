@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "id": 2,
-      "message": "machine 829 failed to dispatch",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2021-07-21T04:06:34.457Z"
-    },
-    {
       "id": 3,
       "message": "hard drive failed on 321",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-07-21T05:40:43.727Z"
+    },
+    {
+      "message": "something stinky downstairs",
       "attention": true,
       "tech": "John Doe",
-      "date": "2021-07-21T04:07:01.346Z"
+      "date": "2021-07-21T04:57:33.237Z",
+      "id": 4
     }
   ],
   "techs": [
@@ -30,6 +30,11 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "val",
+      "lastName": "khut",
+      "id": 4
     }
   ]
 }
