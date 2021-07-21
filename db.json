@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "message": "change network card in server 012",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2021-07-21T02:49:27.952Z",
-      "id": 1
-    },
-    {
-      "message": "machine 829 failed to despatch",
+      "id": 2,
+      "message": "machine 829 failed to dispatch",
       "attention": false,
       "tech": "Sara Wilson",
-      "date": "2021-07-21T02:49:54.111Z",
-      "id": 2
+      "date": "2021-07-21T04:06:34.457Z"
     },
     {
-      "message": "asdfasdf",
+      "id": 3,
+      "message": "hard drive failed on 321",
       "attention": true,
       "tech": "John Doe",
-      "date": "2021-07-21T02:50:47.897Z",
-      "id": 3
+      "date": "2021-07-21T04:07:01.346Z"
     }
   ],
   "techs": [
